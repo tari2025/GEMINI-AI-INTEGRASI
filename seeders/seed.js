@@ -38,7 +38,7 @@ async function seed() {
           name: 'Celana Chino Slim Fit',
           description: 'Celana chino warna khaki, potongan slim fit, bahan stretch nyaman dipake',
           price: 180000,
-          stock: 15,
+          stock: 15,c
         },
         {
           name: 'Sepatu Sneakers Canvas',
